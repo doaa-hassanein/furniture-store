@@ -152,7 +152,6 @@ const Testimonials = () => {
                       </span>
                     </div>
                   </div>
-
                   {/* الجانب الأيمن - نص التوصية */}
                   <div className="md:w-3/5 p-6 flex flex-col justify-center">
                     <div className="relative">
