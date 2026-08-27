@@ -156,11 +156,11 @@ const Testimonials = () => {
                   {/* الجانب الأيمن - نص التوصية */}
                   <div className="md:w-3/5 p-6 flex flex-col justify-center">
                     <div className="relative">
-                      <div className="text-amber-400 text-4xl absolute -top-2 -left-2">"</div>
+                      <div className="text-amber-400 text-4xl absolute -top-2 -left-2">&quot;</div>
                       <p className="text-gray-700 text-sm md:text-base leading-relaxed pl-4">
                         {testimonials[currentSlide].testimonial}
                       </p>
-                      <div className="text-amber-400 text-4xl absolute -bottom-4 -right-2">"</div>
+                      <div className="text-amber-400 text-4xl absolute -bottom-4 -right-2">&quot;</div>
                     </div>
 
                     {/* علامات التوثيق */}

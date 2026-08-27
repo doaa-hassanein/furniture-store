@@ -75,7 +75,7 @@ const Sale = () => {
           </h2>
 
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Limited time offers! Don't miss out on these amazing deals
+            Limited time offers! Don&apos;t miss out on these amazing deals
           </p>
         </motion.div>
 
